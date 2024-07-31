@@ -1,0 +1,57 @@
+[
+    {
+        "from_place": "Andijan",
+        "to_place": "Fergana",
+        "price": "1",
+        "expire_time": "1",
+        "is_active": false,
+        "created_at": "2024-07-15 17:08:45.164678",
+        "car_name": "1",
+        "comment": "1",
+        "seats": "1"
+    },
+    {
+        "from_place": "Andijan",
+        "to_place": "Fergana",
+        "price": "1",
+        "expire_time": "2",
+        "is_active": false,
+        "created_at": "2024-07-15 17:08:45.164678",
+        "car_name": "1",
+        "comment": "1",
+        "seats": "1"
+    },
+    {
+        "from_place": "Andijan",
+        "to_place": "Fergana",
+        "price": "1",
+        "expire_time": "3",
+        "is_active": false,
+        "created_at": "2024-07-15 17:08:45.164678",
+        "car_name": "1",
+        "comment": "1",
+        "seats": "1"
+    },
+    {
+        "from_place": "Andijan",
+        "to_place": "Fergana",
+        "price": "1",
+        "expire_time": "10",
+        "is_active": false,
+        "created_at": "2024-07-15 17:08:45.164678",
+        "car_name": "1",
+        "comment": "1",
+        "seats": "1"
+    },
+    {
+        "from_place": "Andijan",
+        "to_place": "Fergana",
+        "price": "1",
+        "expire_time": "1",
+        "is_active": true,
+        "created_at": "2024-07-15 17:44:53.783517",
+        "car_name": "1",
+        "comment": "1",
+        "seats": "1"
+    }
+]
